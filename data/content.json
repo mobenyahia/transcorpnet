@@ -1,1 +1,9 @@
-
+{
+  "executiveSummary": {
+    "actions": 5,
+    "criticalRisks": 2,
+    "approvals": 3,
+    "projectsOffTrack": 1,
+    "policyCompliance": 94
+  }
+}
